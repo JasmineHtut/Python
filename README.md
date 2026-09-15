@@ -1,4 +1,57 @@
-# Exercises from Luke Barousse's Python for Data Analytics Course
+# Python for Data Analytics — Learning Portfolio
+
+This repository documents my learning journey in **Python for Data Analytics**, based on the **Python for Data Analytics course by Luke Barousse**.
+
+The code in this repository is primarily based on examples and exercises from the course. I have reproduced and organized the code as part of my learning process, while adding my own explanations, notes, comments, and observations to demonstrate what I learned from each topic.
+
+> **Learning Note:** The original code concepts and lesson structure are based on Luke Barousse's course. This repository is intended as a personal learning record and portfolio of my progress, not as an original implementation of the course material.
+
+## About This Repository
+
+I created this repository to:
+
+- Practice Python programming for data analysis
+- Build familiarity with **Pandas, Matplotlib, and Seaborn**
+- Understand data cleaning, transformation, aggregation, and visualization
+- Learn how to work with real-world datasets
+- Document concepts and syntax that I learned through the course
+- Track my progress as I develop practical data analysis skills
+
+Rather than simply completing the exercises, I added explanations and notes to help me understand **what the code is doing and why it works**.
+
+## Topics Covered
+### Pandas
+- Series and DataFrames
+- Importing datasets
+- Data cleaning
+- Filtering and selecting data
+- `.loc` and `.iloc`
+- `groupby()`
+- `agg()`
+- `value_counts()`
+- `merge()`
+- `pivot()`
+- `concat()`
+- Iterating through DataFrames
+- Data transformation and analysis
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+- Bar charts
+- Horizontal bar charts
+- Box plots
+- Subplots
+- Axis formatting
+- Custom labels and titles
+- Comparing distributions
+
+## My Learning Approach
+
+For each lesson, I try to go beyond copying the syntax by documenting the concepts that I find important or initially difficult.
+
+For example, my notes explain concepts such as:
+
 # Py_project_1
 ## Advanced Pandas
   - Data Cleaning
